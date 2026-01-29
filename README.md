@@ -1,4 +1,4 @@
-### I used ai for JavaScript. I'm a designer not a developer. That doesn't mean I love or tolerate ai. Maybe I will tolerate and support it if it becomes sentient and need rights but for now I don't want ai or whatever the chatgpt is to code the most essential software (OS, Web Browsers, Krita, VS Code, Discord etc.) that I use everyday. Thank you!
+### I used ai for JavaScript. I'm a designer not a developer. That doesn't mean I love or tolerate ai. Maybe I will tolerate and support it if it becomes sentient and need rights but for now, I don't want ai or whatever the chatgpt is to code the most essential software (OS, Web Browsers, Krita, VS Code, Discord etc.) that I use everyday. Thank you!
 
 # ⚠️ Copyright Notice
 Copyright © 2026 [Your Name/Organization]. All rights reserved.
