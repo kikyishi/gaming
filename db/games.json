@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Game 1",
+    "icon": "https://i.pinimg.com/736x/e8/ea/3d/e8ea3d5d806ed636905aa18b71e4064a.jpg",
+    "playtime": 60,
+    "achieved": 10,
+    "total": 10,
+    "platform": "Pirated",
+    "link": "#"
+  },
+  {
+    "title": "Game 2",
+    "icon": "https://i.pinimg.com/1200x/8e/d4/44/8ed444f7ce9b59da13b51ae2f93806de.jpg",
+    "playtime": 90,
+    "achieved": 0,
+    "total": 10,
+    "platform": "Steam",
+    "link": "#"
+  },
+  {
+    "title": "Game 3",
+    "icon": "https://i.pinimg.com/736x/77/87/9f/77879fa285ea9dbb3385ff44b9ec139c.jpg",
+    "playtime": 145,
+    "achieved": 0,
+    "total": 0,
+    "platform": "Itch",
+    "link": "#"
+  }
+]
