@@ -357,6 +357,9 @@ option:hover {
   .container {
     display: block;
   }
+  .cursorcircle {
+    display: none;
+  }
   /* .mobile {
     display: block;
   } */
