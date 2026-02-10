@@ -41,6 +41,7 @@
 }
 
 body {
+  background: #14151b;
   background-attachment: fixed;
   background-image:
     linear-gradient(
