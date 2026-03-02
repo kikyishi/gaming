@@ -1,0 +1,111 @@
+.block {
+  padding-left: 10px;
+  padding-top: 20px;
+}
+
+.profilebox {
+  grid-area: nav;
+}
+.profilebox img {
+  width: auto;
+  height: 300px;
+}
+
+.profilebox .socials a {
+  font-size: 16px;
+
+  color: var(--white);
+  font-weight: normal;
+}
+
+.profilebox .socials a:hover {
+  color: #064b15;
+}
+
+.favourite {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 250px;
+  background-image:
+    linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.94) 0%,
+      rgba(0, 0, 0, 0.68) 50%,
+      rgba(0, 0, 0, 0.41) 100%
+    ),
+    url("https://giffiles.alphacoders.com/221/221159.gif");
+}
+
+.favourite h2 {
+  font-weight: 1000;
+  font-size: 50px;
+  padding-left: 10px;
+}
+
+.s1 {
+  background-image:
+    linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.83) 0%,
+      rgba(0, 0, 0, 0.6) 50%,
+      rgba(0, 0, 0, 0.32) 100%
+    ),
+    url("https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/ss_2fc938d99a1e87893852cb2d2113478190607941.1920x1080.jpg?t=1768493570");
+}
+.s2 {
+  background-image:
+    linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.83) 0%,
+      rgba(0, 0, 0, 0.6) 50%,
+      rgba(0, 0, 0, 0.32) 100%
+    ),
+    url("https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_d836f0a5b0447fb6a2bdb0a6ac5f954949d3c41e.1920x1080.jpg?t=1754692865");
+}
+.s3 {
+  background-image:
+    linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.83) 0%,
+      rgba(0, 0, 0, 0.6) 50%,
+      rgba(0, 0, 0, 0.32) 100%
+    ),
+    url("http://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211280/ss_7e43397633e21da2ab2c2254068454f9eea8f3ae.1920x1080.jpg?t=1680646718");
+}
+.s4 {
+  background-image:
+    linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.83) 0%,
+      rgba(0, 0, 0, 0.6) 50%,
+      rgba(0, 0, 0, 0.32) 100%
+    ),
+    url("https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/064da9cfd175b47e30474a643e85e81ca3ee83cf/ss_064da9cfd175b47e30474a643e85e81ca3ee83cf.1920x1080.jpg?t=1766101535");
+}
+.s5 {
+  background-image:
+    linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.83) 0%,
+      rgba(0, 0, 0, 0.6) 50%,
+      rgba(0, 0, 0, 0.32) 100%
+    ),
+    url("https://static.wixstatic.com/media/0a4a01_a0e84b3fa2004f86a1a44decb9cb6462~mv2.webp/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/0a4a01_a0e84b3fa2004f86a1a44decb9cb6462~mv2.webp");
+}
+
+@media screen and (max-width: 650px) {
+  .profilebox {
+    display: block;
+    justify-content: center;
+    text-align: center;
+  }
+  .profilebox .block {
+    text-align: left;
+  }
+
+  .profilebox img {
+    width: 90%;
+    height: 90%;
+  }
+}

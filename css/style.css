@@ -1,0 +1,7 @@
+#librarytotal,
+#mediatotal,
+#wishlisttotal {
+  color: var(--white);
+  font-size: 20px;
+  padding-left: 5px;
+}
